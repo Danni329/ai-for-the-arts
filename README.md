@@ -1,1 +1,1 @@
-# ai-for-the-arts
+AI portfolio
