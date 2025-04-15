@@ -1,7 +1,7 @@
 ## AI for the Arts and Humanities Portfolio
 **GUID：2750864**
 - This repository documents my learning journey through the "Artificial Intelligence for the Arts & Humanities" course. It includes exploratory coding exercises, interactive experiments, machine learning reflections, and a final creative design project that integrates large language models into cultural heritage engagement.
-- **Highlights**
+### Highlights
 1. Python Foundations with Copilot
 
 Used GitHub Codespaces and Copilot to write beginner-friendly Python code.
